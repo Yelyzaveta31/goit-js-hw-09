@@ -1,2 +1,2 @@
-import"./assets/styles-3c4e11fa.js";import{S as o}from"./assets/vendor-10cb7c31.js";console.log("Gallery");new o(".gallery a",{});console.log(o);
+import"./assets/modulepreload-polyfill-3cfb730f.js";/* empty css                      */import{S as o}from"./assets/vendor-10cb7c31.js";console.log("Gallery");new o(".gallery a",{});console.log(o);
 //# sourceMappingURL=commonHelpers.js.map
