@@ -1,0 +1,21 @@
+
+.gallery-image {
+    width: 360px;
+    height: 200px;
+    transition: transform 0.8s;
+    }
+    
+    .gallery {
+        max-width: 1128px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 24px;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    
+    .gallery-image.hover,
+    .gallery-image.focus{
+        transform: scale(3.0889, 3.2);
+    }
